@@ -13,6 +13,7 @@
 		8320F4D929B2240B0042B6C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8320F4D729B2240B0042B6C9 /* Main.storyboard */; };
 		8320F4DB29B2240C0042B6C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8320F4DA29B2240C0042B6C9 /* Assets.xcassets */; };
 		8320F4DE29B2240C0042B6C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8320F4DC29B2240C0042B6C9 /* LaunchScreen.storyboard */; };
+		8320F4E629B236120042B6C9 /* SuperHeroDetailsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8320F4E529B236120042B6C9 /* SuperHeroDetailsController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8320F4DA29B2240C0042B6C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8320F4DD29B2240C0042B6C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8320F4DF29B2240C0042B6C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8320F4E529B236120042B6C9 /* SuperHeroDetailsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperHeroDetailsController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8320F4D129B2240B0042B6C9 /* AppDelegate.swift */,
 				8320F4D329B2240B0042B6C9 /* SceneDelegate.swift */,
 				8320F4D529B2240B0042B6C9 /* ViewController.swift */,
+				8320F4E529B236120042B6C9 /* SuperHeroDetailsController.swift */,
 				8320F4D729B2240B0042B6C9 /* Main.storyboard */,
 				8320F4DA29B2240C0042B6C9 /* Assets.xcassets */,
 				8320F4DC29B2240C0042B6C9 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8320F4E629B236120042B6C9 /* SuperHeroDetailsController.swift in Sources */,
 				8320F4D629B2240B0042B6C9 /* ViewController.swift in Sources */,
 				8320F4D229B2240B0042B6C9 /* AppDelegate.swift in Sources */,
 				8320F4D429B2240B0042B6C9 /* SceneDelegate.swift in Sources */,
