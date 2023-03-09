@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  superHeroExampleSwift
 //
-//  Created by AyzaSoft on 3.03.2023.
+//  Created by Kadir GÜLLÜOĞLU on 3.03.2023.
 //
 
 import UIKit
